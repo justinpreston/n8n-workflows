@@ -1,0 +1,10 @@
+{
+  "id": "5DT8aYNmdArFtjIM",
+  "name": "Multi-Account Facebook Monitor",
+  "description": "Monitor multiple Facebook accounts using ScrapeCreators API with AI-powered batch summarization",
+  "active": false,
+  "createdAt": "2025-12-08T01:27:16.710Z",
+  "updatedAt": "2025-12-08T01:27:16.710Z",
+  "nodeCount": 9,
+  "features": ["ScrapeCreators API", "OpenAI Summary", "Email Digest"]
+}

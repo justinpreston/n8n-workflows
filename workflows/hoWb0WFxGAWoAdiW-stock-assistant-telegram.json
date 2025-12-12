@@ -1,0 +1,10 @@
+{
+  "id": "hoWb0WFxGAWoAdiW",
+  "name": "AI-Powered Stock Analysis Assistant with Telegram, Claude & GPT-4O Vision",
+  "description": "Telegram bot 'Ade' for stock technical analysis using Claude and GPT-4o Vision",
+  "active": false,
+  "createdAt": "2025-10-01T00:01:35.541Z",
+  "updatedAt": "2025-10-01T00:01:35.541Z",
+  "nodeCount": 19,
+  "features": ["Telegram Bot", "OpenRouter/Claude", "Chart-img API", "GPT-4o Vision Chart Analysis"]
+}

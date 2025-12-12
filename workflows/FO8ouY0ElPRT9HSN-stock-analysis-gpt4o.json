@@ -1,0 +1,10 @@
+{
+  "id": "FO8ouY0ElPRT9HSN",
+  "name": "Automated Stock Analysis Reports with Technical & News Sentiment using GPT-4o",
+  "description": "Complex AI agent for stock technical analysis with news sentiment and Hebrew email reports",
+  "active": false,
+  "createdAt": "2025-10-01T00:01:33.163Z",
+  "updatedAt": "2025-10-01T00:01:33.163Z",
+  "nodeCount": 45,
+  "features": ["Fibonacci Analysis", "Bollinger Bands", "MACD", "Support/Resistance", "Alpha Vantage News Sentiment", "Chart-img API", "Twelve Data API", "Hebrew Reports"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "9kwrxMF7k5bSxqxv",
+  "name": "Solomon - Backup Workflows to GitHub",
+  "description": "N8n workflow backup to GitHub using subworkflow pattern with diff detection",
+  "active": false,
+  "createdAt": "2025-12-12T14:58:39.968Z",
+  "updatedAt": "2025-12-12T14:58:39.968Z",
+  "nodeCount": 24,
+  "features": ["Subworkflow pattern", "Diff detection", "GitHub integration"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "71H8PFnX994VjG5H",
+  "name": "AI-Powered Multi-Social Media Post Automation: Google Trends & Perplexity AI",
+  "description": "Automated social media posting using Google Trends for topic discovery and Perplexity AI for research",
+  "active": false,
+  "createdAt": "2025-10-01T00:01:30.868Z",
+  "updatedAt": "2025-10-01T01:37:32.930Z",
+  "nodeCount": 18,
+  "features": ["Google Trends", "SerpAPI", "Perplexity AI", "OpenAI", "Twitter", "Facebook", "LinkedIn", "Google Sheets"]
+}

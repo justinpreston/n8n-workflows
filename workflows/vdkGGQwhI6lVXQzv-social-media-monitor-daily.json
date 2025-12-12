@@ -1,0 +1,11 @@
+{
+  "id": "vdkGGQwhI6lVXQzv",
+  "name": "Social Media Monitor - Daily Digest (ScrapeCreators)",
+  "description": "Daily social media monitoring digest using ScrapeCreators API for Facebook accounts",
+  "active": false,
+  "createdAt": "2025-12-08T02:01:10.000Z",
+  "updatedAt": "2025-12-08T02:16:24.655Z",
+  "nodeCount": 10,
+  "monitoredAccounts": ["Janssen Evelyn", "Regina Clay", "Shamieka Preston"],
+  "features": ["ScrapeCreators API", "HTML Email Digest", "Multi-platform support"]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "9SMG0KZ1y2MATaHZ",
+  "name": "My workflow 3",
+  "description": "Howard County Newsletter automation with multiple data sources, AI processing, and personalized delivery",
+  "active": false,
+  "createdAt": "2025-09-14T22:18:30.651Z",
+  "updatedAt": "2025-09-15T00:54:51.247Z",
+  "nodeCount": 25,
+  "dataSources": ["GitHub Actions", "Planning & Zoning", "HCPSS", "Public Safety", "Public Works"],
+  "integrations": ["Zapier", "Make.com", "Canva", "Webflow", "Mailchimp", "Plausible", "SendGrid"]
+}

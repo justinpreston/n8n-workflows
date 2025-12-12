@@ -1,0 +1,12 @@
+{
+  "id": "0OZz8mbxXFdmMiCL",
+  "name": "Stock Market Daily Digest with Bright Data Scraping & Gemini AI Email Reports",
+  "description": "Daily stock market digest using Bright Data for scraping and Gemini AI for email reports",
+  "active": false,
+  "createdAt": "2025-10-01T00:01:34.281Z",
+  "updatedAt": "2025-10-01T00:01:34.281Z",
+  "nodeCount": 22,
+  "templateId": "5305",
+  "trackedStocks": ["NVDA", "MSFT", "AAPL", "AMZN", "GOOGL", "META", "BRK.B", "TSLA", "UNH", "JNJ"],
+  "features": ["Bright Data API", "Google Gemini", "Google Sheets", "Gmail"]
+}

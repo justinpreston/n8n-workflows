@@ -1,0 +1,10 @@
+{
+  "id": "j6NxUwr5KkixYt8J",
+  "name": "My workflow 5",
+  "description": "Howard County newsletter stub with 6am daily schedule",
+  "active": false,
+  "createdAt": "2025-09-15T18:02:04.825Z",
+  "updatedAt": "2025-09-15T18:02:04.825Z",
+  "nodeCount": 6,
+  "features": ["HTTP Fetch", "Normalization", "Deduplication", "Summarization", "HTML Assembly"]
+}

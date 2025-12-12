@@ -1,0 +1,20 @@
+{
+  "id": "iPmYHC977mgCSc11",
+  "name": "My workflow 4",
+  "description": "Howard County Multi-Source Scraper - ICS calendars, HTML pages, with normalization and priority sorting",
+  "active": false,
+  "createdAt": "2025-09-15T01:35:27.180Z",
+  "updatedAt": "2025-09-15T02:01:54.227Z",
+  "nodeCount": 18,
+  "dataSources": [
+    "HCPSS Board ICS Calendar",
+    "County Gov News",
+    "Police Daily Crime",
+    "Council Calendar",
+    "Library Events",
+    "Recreation Parks",
+    "Zoning Board Decisions",
+    "Board Appeals Decisions",
+    "Hopkins Medical Events"
+  ]
+}

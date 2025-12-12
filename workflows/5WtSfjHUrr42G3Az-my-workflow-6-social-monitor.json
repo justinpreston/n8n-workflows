@@ -1,0 +1,11 @@
+{
+  "id": "5WtSfjHUrr42G3Az",
+  "name": "My workflow 6",
+  "description": "Social media monitoring for political candidates using ScrapeCreators API with AI analysis",
+  "active": false,
+  "createdAt": "2025-10-01T02:45:19.229Z",
+  "updatedAt": "2025-10-01T12:04:30.823Z",
+  "nodeCount": 20,
+  "monitoredCandidates": ["Janssen Evelyn", "Regina Clay", "Shamieka Preston"],
+  "features": ["ScrapeCreators API", "AI Analysis", "Google Sheets"]
+}

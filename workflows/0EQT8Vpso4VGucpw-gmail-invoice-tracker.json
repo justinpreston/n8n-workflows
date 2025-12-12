@@ -1,0 +1,11 @@
+{
+  "id": "0EQT8Vpso4VGucpw",
+  "name": "Gmail Invoice Tracker - AI Extraction",
+  "description": "Automated invoice tracking from Gmail with AI-powered data extraction and Google Sheets logging",
+  "active": false,
+  "createdAt": "2025-12-08T01:47:33.059Z",
+  "updatedAt": "2025-12-08T01:47:33.059Z",
+  "nodeCount": 5,
+  "features": ["Gmail Trigger", "PDF Extraction", "AI Data Extraction", "Google Sheets"],
+  "extractedFields": ["invoice_number", "invoice_date", "vendor_name", "total_amount", "currency"]
+}

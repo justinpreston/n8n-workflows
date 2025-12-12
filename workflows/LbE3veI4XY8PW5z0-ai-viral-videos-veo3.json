@@ -1,0 +1,12 @@
+{
+  "id": "LbE3veI4XY8PW5z0",
+  "name": "Generate AI viral videos with NanoBanana & VEO3, shared on socials via Blotato",
+  "description": "AI-powered viral video generation using NanoBanana, VEO3, and multi-platform distribution via Blotato",
+  "active": false,
+  "createdAt": "2025-10-01T00:01:31.983Z",
+  "updatedAt": "2025-10-01T00:01:31.983Z",
+  "nodeCount": 47,
+  "templateId": "8270",
+  "features": ["Telegram Bot", "NanoBanana", "VEO3", "Blotato", "GPT-4o", "Multi-platform posting"],
+  "platforms": ["TikTok", "Instagram", "YouTube", "LinkedIn", "Facebook", "Twitter", "Threads", "Bluesky", "Pinterest"]
+}

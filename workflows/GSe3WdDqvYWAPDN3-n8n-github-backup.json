@@ -1,0 +1,11 @@
+{
+  "id": "GSe3WdDqvYWAPDN3",
+  "name": "N8n Workflows → GitHub Backup",
+  "description": "Weekly backup to scratch41/n8n-workflows repo using n8n API",
+  "active": false,
+  "createdAt": "2025-12-12T14:45:41.831Z",
+  "updatedAt": "2025-12-12T14:52:32.184Z",
+  "nodeCount": 8,
+  "targetRepo": "scratch41/n8n-workflows",
+  "features": ["File existence checking", "Base64 encoding", "Weekly schedule"]
+}
